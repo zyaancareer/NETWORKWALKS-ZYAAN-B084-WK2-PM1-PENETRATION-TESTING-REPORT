@@ -54,15 +54,14 @@ Lastly, I enumerated DNS records using DNSRecon. Name servers, mail servers, SPF
 # 4.2	Network Scanning with Zenmap
 After identifying the local Wi-Fi network configuration using Windows Command Prompt, Zenmap was launched to perform network discovery. The IPv4 subnet range was entered into the Target field, and the Ping Scan profile was selected to identify active devices on the network. 
 Once the scan was completed, the results were analysed to identify responding hosts, their IP addresses and, where available, their MAC addresses.
- I found four live hosts: 
-•	192.168.18.241
-•	192.168.18.1
-•	192.168.18.200
-•	192.168.18.236
+I found four live hosts: 
+-	192.168.18.241
+-	192.168.18.1
+-	192.168.18.200
+-	192.168.18.236
+  
 The results also included for MAC addresses.
 After completing the scan, I opened the Topology section in Zenmap, enabled the legend and saved the network topology in PDF format as required by the practical task.
-
-
 
 
 
