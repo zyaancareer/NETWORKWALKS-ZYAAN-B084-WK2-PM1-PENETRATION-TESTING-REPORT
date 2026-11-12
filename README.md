@@ -103,3 +103,26 @@ Overall, this exercise strengthened my understanding of fundamental cybersecurit
 
 # 8. Evidences Collected
 *Screenshots collected as evidence during the activities (stored in the `screenshots/` folder):*
+
+![whois output](1_whois.png)
+
+![whatweb output](2_whatweb.png)
+
+![nslookup output](3_nslookup.png)
+
+![curl output](4_curl.png)
+
+![wafw00f output](5_wafw00f.png)
+
+![dnsrecon output](7_zenmap.png)
+
+![Zenmap scan and topology](8_zenmap2.png)
+
+# 👤 Author
+# Zyaan Makda
+Cybersecurity Graduate
+LinkedIn: https://www.linkedin.com/in/zyaan-career/
+
+# 📌 Project Information
+Program Name: Cybersecurity program at Networkwalks | Week: 02 | Repository: GitHub
+
